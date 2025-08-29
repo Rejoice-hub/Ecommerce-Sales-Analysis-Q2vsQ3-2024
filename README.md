@@ -10,7 +10,7 @@ Objectives
 - Highlight top-performing and underperforming product categories
 - Provide recommendations to improve sales performance
 
-Tools & Technologies
+Tools
 - **Excel** (Data cleaning, pivot tables)
 - **Power BI** (Interactive dashboards, visualizations)
 - **Power Pivot** (Data modeling)
