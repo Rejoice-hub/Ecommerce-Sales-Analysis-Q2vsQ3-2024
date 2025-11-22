@@ -3,8 +3,10 @@
  Project Overview
 This project analyzes sales performance of an online retail business, comparing **Q2 vs Q3 2024**.
 The aim is to identify the reasons behind the drop in sales and provide actionable insights for business growth.
+<img width="1913" height="960" alt="Screenshot 2025-11-22 090122" src="https://github.com/user-attachments/assets/f166fbe8-dedd-46d0-975a-da24041f8458" />
 
-Objectives
+Objectives<img width="1848" height="950" alt="Screenshot 2025-11-22 090220" src="https://github.com/user-attachments/assets/0ec18dbd-ad20-4f23-b2b6-b0af1c8a6fa3" />
+
 - Compare sales performance between Q2 and Q3 2024
 - Identify trends in revenue, profit, and order volume
 - Highlight top-performing and underperforming product categories
