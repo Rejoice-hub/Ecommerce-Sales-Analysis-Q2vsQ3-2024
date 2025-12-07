@@ -53,7 +53,7 @@ Insights & Recommendations – Identify causes of the Q3 decline and provide cle
 📊 Dashboard Layout
 
 https://github.com/Rejoice-hub/Ecommerce-Sales-Analysis-Q2vsQ3-2024/blob/main/data%20visualization...png?raw=true
-
+https://github.com/Rejoice-hub/Ecommerce-Sales-Analysis-Q2vsQ3-2024/blob/main/data%20visualization.png?raw=true
 
 📊 Proposed Dashboard Components
 KPI Cards →
