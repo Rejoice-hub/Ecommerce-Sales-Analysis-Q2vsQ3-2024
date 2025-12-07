@@ -50,6 +50,11 @@ Data Preparation – Clean the dataset, standardize fields, and use pivot tables
 Modeling & Dashboarding – Create KPI measures in Power Pivot and build a Power BI dashboard showing sales trends, category performance, regional insights, and Web vs App results.
 Insights & Recommendations – Identify causes of the Q3 decline and provide clear recommendations for improving category performance, regional focus, channel strategy, and customer retention.
 
+📊 Dashboard Layout
+
+https://github.com/Rejoice-hub/Ecommerce-Sales-Analysis-Q2vsQ3-2024/blob/main/data%20visualization...png?raw=true
+
+
 📊 Proposed Dashboard Components
 KPI Cards →
 
