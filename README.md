@@ -51,7 +51,8 @@ Modeling & Dashboarding – Create KPI measures in Power Pivot and build a Power
 Insights & Recommendations – Identify causes of the Q3 decline and provide clear recommendations for improving category performance, regional focus, channel strategy, and customer retention.
 
 📊 Dashboard Layout
-https://github.com/Rejoice-hub/Ecommerce-Sales-Analysis-Q2vsQ3-2024/blob/0828334599c714d825b1bd4c4407c163a984b9a8/data%20visualization...png
+<img width="857" height="688" alt="Image" src="https://github.com/user-attachments/assets/f50ce76d-ee4a-469d-a95f-3f270d1023b2" />
+<img width="963" height="670" alt="Image" src="https://github.com/user-attachments/assets/bfc68e2b-f518-4d4e-b823-ebc4cd4b66d4" />
 
 
 📊 Proposed Dashboard Components
